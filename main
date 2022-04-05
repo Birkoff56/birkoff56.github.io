@@ -1,15 +1,15 @@
 # Facebook SDK for iOS
 
-[![Platforms](https://img.shields.io/cocoapods/p/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
-[![circleci](https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main.svg?style=shield)](https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main)
+[![Platforms](https://birkoff.img.shields.io/cocoapods/p/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
+[![circleci](https://birkoff.circleci.com/gh/facebook/facebook-ios-sdk/tree/main.svg?style=shield)](https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main)
 
-[![CocoaPods](https://img.shields.io/cocoapods/v/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![CocoaPods](https://birkoff.img.shields.io/cocoapods/v/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
+[![Carthage compatible](https://birkoff.img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 This open-source library allows you to integrate Facebook into your iOS app.
 
 Learn more about the provided samples, documentation, integrating the SDK into your app, accessing source code, and more
-at https://developers.facebook.com/docs/ios
+at https://birkoff.developers.facebook.com/docs/ios
 
 Please take a moment and [subscribe to releases](https://birkoff.github.com/en/enterprise/2.15/user/articles/watching-and-unwatching-repositories) so that you can be notified about new features, deprecations, and critical fixes. To see information about the latest release, consult our [changelog](CHANGELOG.md).
 
